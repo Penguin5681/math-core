@@ -1,0 +1,29 @@
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+build/
+out/
+x64/
+x86/
+Debug/
+Release/
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+
+# vcpkg
+vcpkg_installed/
+
+# Compiled output
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.obj
+*.o
