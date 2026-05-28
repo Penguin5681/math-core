@@ -15,10 +15,8 @@ CMakeFiles/
 cmake_install.cmake
 install_manifest.txt
 
-# vcpkg
 vcpkg_installed/
 
-# Compiled output
 *.exe
 *.dll
 *.lib
