@@ -25,3 +25,4 @@ vcpkg_installed/
 *.exp
 *.obj
 *.o
+cmd.txt
